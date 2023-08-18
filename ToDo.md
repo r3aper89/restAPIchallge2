@@ -11,7 +11,6 @@ setup
 - [x] add swagger to Gradle - Groovy
 
 Tests
-- [ ] log into postgress UI server
-- [ ] CRUD test
+- [x] CRUD test
 
 
