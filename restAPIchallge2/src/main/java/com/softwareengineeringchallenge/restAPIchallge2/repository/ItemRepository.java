@@ -1,7 +1,7 @@
-package com.crud.SoftwareEngineeringChallenge.repository;
+package com.softwareengineeringchallenge.restAPIchallge2.repository;
 
 //local
-import com.crud.SoftwareEngineeringChallenge.entity.Item;
+import com.softwareengineeringchallenge.restAPIchallge2.entity.Item;
 
 //imported
 import org.springframework.data.jpa.repository.JpaRepository;

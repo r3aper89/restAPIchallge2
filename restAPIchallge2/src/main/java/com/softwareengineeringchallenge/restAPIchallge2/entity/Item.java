@@ -1,4 +1,4 @@
-package com.crud.SoftwareEngineeringChallenge.entity;
+package com.softwareengineeringchallenge.restAPIchallge2.entity;
 
 //local 
 

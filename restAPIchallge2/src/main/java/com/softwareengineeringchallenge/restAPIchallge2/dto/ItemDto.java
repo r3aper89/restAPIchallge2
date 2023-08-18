@@ -1,4 +1,4 @@
-package com.crud.SoftwareEngineeringChallenge.dto;
+package com.softwareengineeringchallenge.restAPIchallge2.dto;
 
 //local
 
@@ -14,4 +14,4 @@ public class ItemDto {
 
 }
 
-//validation logic
+// validation logic

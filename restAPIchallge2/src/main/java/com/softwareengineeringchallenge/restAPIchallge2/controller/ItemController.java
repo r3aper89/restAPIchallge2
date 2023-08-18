@@ -1,8 +1,8 @@
-package com.crud.SoftwareEngineeringChallenge.controller;
+package com.softwareengineeringchallenge.restAPIchallge2.controller;
 
 //local
-import com.crud.SoftwareEngineeringChallenge.dto.ItemDto;
-import com.crud.SoftwareEngineeringChallenge.service.ItemService;
+import com.softwareengineeringchallenge.restAPIchallge2.dto.ItemDto;
+import com.softwareengineeringchallenge.restAPIchallge2.service.ItemService;
 
 //imported
 import org.springframework.beans.factory.annotation.Autowired;

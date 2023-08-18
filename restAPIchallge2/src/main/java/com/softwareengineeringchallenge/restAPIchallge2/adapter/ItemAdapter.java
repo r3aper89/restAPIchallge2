@@ -1,8 +1,8 @@
-package com.crud.SoftwareEngineeringChallenge.adapter;
+package com.softwareengineeringchallenge.restAPIchallge2.adapter;
 
 //local
-import com.crud.SoftwareEngineeringChallenge.dto.ItemDto;
-import com.crud.SoftwareEngineeringChallenge.entity.Item;
+import com.softwareengineeringchallenge.restAPIchallge2.dto.ItemDto;
+import com.softwareengineeringchallenge.restAPIchallge2.entity.Item;
 
 //imported
 import org.springframework.stereotype.Component;

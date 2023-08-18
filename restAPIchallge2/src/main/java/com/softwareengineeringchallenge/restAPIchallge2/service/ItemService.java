@@ -1,10 +1,10 @@
-package com.crud.SoftwareEngineeringChallenge.service;
+package com.softwareengineeringchallenge.restAPIchallge2.service;
 
 //local
-import com.crud.SoftwareEngineeringChallenge.entity.Item;
-import com.crud.SoftwareEngineeringChallenge.repository.ItemRepository;
-import com.crud.SoftwareEngineeringChallenge.adapter.ItemAdapter;
-import com.crud.SoftwareEngineeringChallenge.dto.ItemDto;
+import com.softwareengineeringchallenge.restAPIchallge2.entity.Item;
+import com.softwareengineeringchallenge.restAPIchallge2.repository.ItemRepository;
+import com.softwareengineeringchallenge.restAPIchallge2.adapter.ItemAdapter;
+import com.softwareengineeringchallenge.restAPIchallge2.dto.ItemDto;
 
 //imported
 import org.springframework.beans.factory.annotation.Autowired;
